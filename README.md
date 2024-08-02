@@ -1,3 +1,3 @@
 raza
 
-[x](https://x.com/razahui)
+[twitter](https://twitter.com/razahui)
